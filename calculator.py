@@ -11,4 +11,4 @@ else:
     print(range(number_one))
     print(number_one,"!")
     print(number_one,"Sayısının faktöriyeli",one)
-    print("Sherwood: https://github.com/Cwaty" , "Crypto: https://github.com/xrypt0")
+    print("Sherwood: https://github.com/Cwaty")
